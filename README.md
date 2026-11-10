@@ -2,11 +2,12 @@
 
 Plasma/PlasmaMobile付属のPlasma-Keyboardの日本語入力があんまりにも不自由なため、少しでもマシになるように作ったキーアサインテーブル。
 
-動作確認された環境
+**動作確認された環境:***
+
 - [x] Arch Linux Plasma 6.8.2
 - [x] Debian Testing Plasma 6.7.4-1
-- [x] Ubuntu 26.04 Plasma 6.6 ※ ただしFreeWnnが入ってないので要qt6-virtualkeyboardの自前ビルド
-- [ ] ここにないディストロ Plasmaのバージョン合ってりゃうごくもんかと。Ubuntuみたいに変換が自前ってこともあるかも
+- [x] Ubuntu 26.04 Plasma 6.6 ※ ただしFreeWnnが入ってないので要qt6-virtualkeyboardの自前ビルド。
+- [ ] ここにないディストロ。Plasmaのバージョン合ってりゃうごくもんかと。Ubuntuみたいに変換が自前ってこともあるかも。
 
 ### Plasma Teamに次ぐ！ TABキーくらいは最初から実装しておくんなまし。
 
