@@ -127,8 +127,8 @@ KeyboardLayoutLoader {
                 Key {
                     key: Qt.Key_D
                     text: "d"
-                    alternativeKeys: "d_"
-                    smallText: "_"
+                    alternativeKeys: "d-_"
+                    smallText: "-"
                     smallTextVisible: true
                 }
                 Key {
@@ -190,6 +190,9 @@ KeyboardLayoutLoader {
                 Key {
                     key: Qt.Key_Z
                     text: "z"
+                    alternativeKeys: "z`~"
+                    smallText: "`"
+                    smallTextVisible: true
                 }
                 Key {
                     key: Qt.Key_X

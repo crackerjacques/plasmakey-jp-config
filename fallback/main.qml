@@ -110,7 +110,9 @@ KeyboardLayout {
         Key {
             key: Qt.Key_D
             text: "d"
-            alternativeKeys: "dđď"
+            alternativeKeys: "dđď-_"
+            smallText: "-"
+            smallTextVisible: true
         }
         Key {
             key: Qt.Key_F
@@ -155,7 +157,9 @@ KeyboardLayout {
         Key {
             key: Qt.Key_Z
             text: "z"
-            alternativeKeys: "zžż"
+            alternativeKeys: "zžż`~"
+            smallText: "`"
+            smallTextVisible: true
         }
         Key {
             key: Qt.Key_X
